@@ -1,1 +1,18 @@
-THINK before you code...
+Create object playerone with class MarioKartPlayer.
+Create object playertwo with class MarioKartPlayer.
+Output playerone stats
+Output playertwo stats
+Output "Boost!"
+Boost playerone stats
+Boost playertwo stats
+Output playerone stats
+Output playertwo stats
+
+Class: MarioKartPlayer
+Contains name, character, and speed of player
+
+Method: Boost
+Increases speed
+
+Method: Stats
+Outputs player information
